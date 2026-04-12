@@ -10,6 +10,8 @@
 
 Simply add the plugin to your config, and start using the `<Image />` component immediately. No complex setups, just performant images.
 
+> **[See the live demo →](https://vite-image.web.app)** — Side-by-side comparison of `<Image />` vs `<img>` with real loading metrics.
+
 ## ✨ Why use this?
 
 - **⚡ Next.js-like Experience**: Familiar Image API for those coming from Next.js.
